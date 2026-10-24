@@ -7,48 +7,22 @@ Flutter · Android 네이티브 · iOS 네이티브로 고객사 및 사내 앱�
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Stack
 
-<!-- Mobile -->
-<div>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-</div>
+#### Languages
+<img src="https://skillicons.dev/icons?i=dart,kotlin,java,swift,cpp" />
 
-<!-- Architecture & State -->
-<div>
-  <img src="https://img.shields.io/badge/Clean_Architecture-3D4145?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MVVM-3D4145?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Riverpod-1A73E8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/BLoC-13B9FD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Combine-000000?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tuist-6236FF?style=flat-square"/>
-</div>
+#### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,apple" />
 
-<!-- Device & Network -->
-<div>
-  <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NFC-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_API-02569B?style=flat-square"/>
-</div>
+#### Backend & Databases
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,php,mysql" />
 
-<!-- Tools -->
-<div>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</div>
+#### Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,figma" />
+
+#### Architecture & Device
+Clean Architecture · MVVM · GetX · Riverpod · BLoC · Jetpack Compose · Combine · Tuist · BLE · NFC · MQTT · Claude Code
 
 <br>
 
