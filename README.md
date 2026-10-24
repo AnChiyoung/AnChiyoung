@@ -7,17 +7,6 @@ Flutter · Android 네이티브 · iOS 네이티브로 고객사 및 사내 앱�
 
 <br>
 
-## 📈 Highlights
-
-- 콜드 스타트 푸시 딥링크를 Pending 구조로 재설계해 **목적 화면 진입 성공률 60% → 100%**
-- Claude Code Hooks로 코드 생성 시점에 규칙을 자동 검사해 **QA 558항목 중 523항목 무수정 통과, 코드리뷰 시간 약 50% 단축**
-- 앱 상태별 네트워크 제어로 **통신 오류 VOC 100% 감소**
-- 주기적 폴링을 상태 기반 구조로 바꿔 **추가 API 요청 n+1회 → 1회**
-- BLE 밴드 다중 수집 구조 설계로 **30대 기준 수집 주기 5분 이내** 달성
-- 기기 연동 앱으로 **국가 과제 2건 통과 · GS 인증 획득**
-
-<br>
-
 ## 🛠 Tech Stack
 
 <!-- Mobile -->
@@ -60,18 +49,6 @@ Flutter · Android 네이티브 · iOS 네이티브로 고객사 및 사내 앱�
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
-
-<br>
-
-## 💼 Experience
-
-| 기간 | 회사 | 역할 | 주요 내용 |
-|---|---|---|---|
-| 2025.03 - 현재 | 하이브랩 | 선임연구원 | NHN 와플랫체크 iOS 신규 개발 · 출시, 고객사 · 사내 앱 운영, 모바일 개발 프로세스 표준화 |
-| 2024.04 - 2024.12 | 젝토 | 선임연구원 · Team Lead | 블록체인 결제 앱 KONWallet Flutter 개발 · 출시 |
-| 2021.12 - 2022.10 | 스냅태그 | 셀장 | KEYLOG · ONME Flutter 신규 개발 |
-| 2021.06 - 2021.11 | 티허브 | 대리 | 다중 BLE 밴드 생체 데이터 수집 앱 Thermo Hub |
-| 2015.11 - 2019.04 | 에프에스알엔티 | 대리 | IoT · 헬스케어 Android 네이티브 앱 7종 (mtag, GORI 등) |
 
 <br>
 
